@@ -1,2 +1,2 @@
-#!/bin/bash
-Display content list
+!#/bin/bash
+Change to home directory
