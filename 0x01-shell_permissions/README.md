@@ -1,2 +1,2 @@
 #!/bin/bash
-Print effective user name
+Print all groups
