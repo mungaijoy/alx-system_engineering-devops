@@ -1,2 +1,2 @@
 #!/bin/bash
-Switch users
+Print effective user name
