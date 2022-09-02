@@ -1,2 +1,2 @@
-create directories
-create directories
+#!/bin/bash
+Instructions
