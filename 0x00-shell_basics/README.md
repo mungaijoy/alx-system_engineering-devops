@@ -1,2 +1,2 @@
 #!/bin/bash
-symbolic link
+copies files
