@@ -1,2 +1,2 @@
 #!/bin/bash
-copies files
+move files
