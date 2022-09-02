@@ -1,2 +1,2 @@
 #!/bin/bash
-Change to home directory
+Bring me home
