@@ -1,2 +1,2 @@
 #!/bin/bash
-Just like Olleh
+For everyone
