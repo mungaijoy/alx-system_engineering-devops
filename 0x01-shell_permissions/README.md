@@ -1,2 +1,2 @@
 #!/bin/bash
-Execute permission to all
+Set mode
