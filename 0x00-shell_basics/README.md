@@ -1,2 +1,2 @@
 #!/bin/bash
-print file
+symbolic link
