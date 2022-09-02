@@ -1,2 +1,1 @@
-#!/bin/bash
-move files
+#!/bin/bashh
