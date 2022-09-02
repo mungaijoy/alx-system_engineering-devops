@@ -1,2 +1,2 @@
 #!/bin/bash
-Create empty file
+Add execute permission
