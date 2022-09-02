@@ -1,2 +1,2 @@
 #!/bin/bash
-content in long format
+Display all contents
