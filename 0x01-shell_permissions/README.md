@@ -1,2 +1,2 @@
 #!/bin/bash
-Set mode
+Just like Olleh
