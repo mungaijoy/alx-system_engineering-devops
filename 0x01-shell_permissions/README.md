@@ -1,2 +1,2 @@
 #!/bin/bash
-Execute permission
+Execute permission to all
