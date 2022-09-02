@@ -1,3 +1,2 @@
 #!/bin/bash
-cmod 755 hello
 chmod 755 hello

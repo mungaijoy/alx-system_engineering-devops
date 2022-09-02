@@ -1,1 +1,2 @@
-change owner
+#!/bin/bash
+executive rights
