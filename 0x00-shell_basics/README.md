@@ -1,2 +1,2 @@
 #!/bin/bash
-previous directory
+Print afilename
