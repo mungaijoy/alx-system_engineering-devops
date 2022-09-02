@@ -1,2 +1,2 @@
 #!/bin/bash
-For everyone
+Execute change ownership
