@@ -1,2 +1,2 @@
 #!/bin/bash
-Add execute permission
+Execute permission and allow read
