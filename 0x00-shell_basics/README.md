@@ -1,2 +1,2 @@
-#!/bin/bash
-delete files
+create directories
+create directories
