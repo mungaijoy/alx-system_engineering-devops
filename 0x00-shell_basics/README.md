@@ -1,2 +1,2 @@
 #!/bin/bash
-Display all contents
+previous directory
