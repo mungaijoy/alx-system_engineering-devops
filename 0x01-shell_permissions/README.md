@@ -1,2 +1,2 @@
 #!/bin/bash
-change ownership
+Delete file
