@@ -1,2 +1,2 @@
 #!/bin/bash
-owner and group
+if only
