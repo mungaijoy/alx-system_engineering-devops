@@ -1,2 +1,2 @@
-#!/bin.bash
-more directories
+#!/bin/bash
+owner and group
