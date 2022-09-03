@@ -1,2 +1,2 @@
-#!/bin/bash
-allow
+#!/bin.bash
+more directories
