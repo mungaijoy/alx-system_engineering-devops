@@ -1,2 +1,2 @@
 #!/bin/bash
-6-third _line
+make a file
