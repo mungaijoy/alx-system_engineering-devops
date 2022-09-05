@@ -1,2 +1,2 @@
 #!/bin/bash
-first lines only
+6-third _line
