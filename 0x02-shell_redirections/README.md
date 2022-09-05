@@ -1,2 +1,2 @@
 #!/bin/bash
-Lastr ten lines
+first lines only
