@@ -1,2 +1,2 @@
 #!/bin/bash
-lets display a file
+print hello worl
