@@ -1,2 +1,2 @@
 #!/bin/bash
-Display file content
+display contents
