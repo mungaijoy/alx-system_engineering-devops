@@ -1,2 +1,2 @@
 #!/bin/bash
-make a file
+last line duplicate
