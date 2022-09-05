@@ -1,0 +1,3 @@
+#!/bin/bash
+pr < Helloword > 0-hello_world
+
