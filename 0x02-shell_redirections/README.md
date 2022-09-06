@@ -1,2 +1,2 @@
-#!/bin/bash
-file within a file
+delete js files
+delete js files
