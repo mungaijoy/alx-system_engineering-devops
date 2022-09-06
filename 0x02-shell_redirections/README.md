@@ -1,2 +1,2 @@
 #!/bin/bash
-unig
+find the root
