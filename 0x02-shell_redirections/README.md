@@ -1,2 +1,2 @@
 #!/bin/bash
-find the root
+counting
