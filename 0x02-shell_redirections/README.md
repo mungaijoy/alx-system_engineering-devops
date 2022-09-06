@@ -1,2 +1,2 @@
 #!/bin/bash
-create a file with the contents
+file within a file
