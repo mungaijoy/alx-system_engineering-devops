@@ -1,3 +1,2 @@
 #!/bin/bash
-10 newest
-ls -tl | head -n 10
+unig
