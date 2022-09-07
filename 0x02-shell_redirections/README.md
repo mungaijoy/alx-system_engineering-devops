@@ -1,3 +1,3 @@
 #!/bin/bash
-3 more lines
-delete all except bin
+display all letter files
+all letters
