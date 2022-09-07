@@ -1,3 +1,2 @@
 #!/bin/bash
-reverse input
-display all
+confused smiley
