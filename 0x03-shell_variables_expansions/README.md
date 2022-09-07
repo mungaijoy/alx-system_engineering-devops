@@ -5,3 +5,4 @@ count directories
 q3
 local variables
 global variable
+adds 128
