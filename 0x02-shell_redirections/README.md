@@ -1,2 +1,2 @@
 #!/bin/bash
-confused smiley
+no 23
